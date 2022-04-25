@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "CapacitaciónExolgan",
+            "host": "node02.myqtthub.com",
+            "port": 1883,
+            "username": "Exolgan",
+            "password": "Exolgan2022+",
+            "clientId": "CapacitacionExolgan"
+        }
+    ]
+}
